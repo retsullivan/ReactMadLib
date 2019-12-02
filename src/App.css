@@ -20,3 +20,69 @@
 .App-link {
   color: #09d3ac;
 }
+
+.row{
+  margin:0px;
+}
+
+.row .top {
+  margin: 0px;
+  font-weight: lighter;
+  color:white;
+  height: 100px;
+}
+
+.myForm{
+  padding-left:20px;
+ padding-top:30px;
+}
+
+.logo{
+  background-color: black;
+}
+
+.mllogo{
+  width: auto;
+  height: 90%;
+  background-color: black;
+  padding-left:15px;
+  align-self: center;
+}
+
+.top .col-sm-9{
+  background-color: rgb(12, 141, 92);
+  padding-top:60px;
+  padding-left:40px;
+  color:white;
+}
+.col-sm-3.logo{
+  margin: 0px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  align-content: center;
+  margin: 0px;
+}
+
+.col-sm-3 {
+  margin: 0px;
+  padding-left:10px;
+  align-content: center;
+  margin: 0px;
+  align-self: center;
+}
+.col-sm-9 {
+  margin: 0px;
+  
+}
+
+.mlBackground{
+  background-color:rgb(237, 250, 239);
+}
+
+.col-sm-9.mlBackground{
+  padding-top:20px;
+  padding-left:40px;
+}
+
+
